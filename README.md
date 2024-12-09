@@ -3,10 +3,9 @@ Manual testing project for CURA Healthcare Service website is a platform Cura He
 
 ### Here are some aspects that can be explained in the manual testing project:
 **1. Pengujian Fungsional**
+
     - **Login Form**: Tests the user login process. Ensures that email and password are received correctly.
-    
     - **Appointment Book Form**: Ensures that all appointments are correctly displayed and confirmed.
-    
     - **Appointment History Form**: Ensures that the appointment history is displayed
     - **Home Form**: Tests the functionality of links located in the footer such as share facebook, twitter and dribble buttons.
     - **Logout Form**: Ensure that the logout process runs properly
