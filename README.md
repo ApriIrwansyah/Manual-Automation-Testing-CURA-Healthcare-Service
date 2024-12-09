@@ -2,7 +2,7 @@
 Manual testing project for CURA Healthcare Service website is a platform Cura Health is the perfect partner to manage your appointments with hospitals, labs, and doctors. It proves to be a one-stop solution for your medical needs. in involves a series of steps and tests to ensure functionality, security, and user experience.
 
 ### Here are some aspects that can be explained in the manual testing project:
-**1. Pengujian Fungsional**
+**1. Functional Testing**
     - **Login Form**: Tests the user login process. Ensures that email and password are received correctly.
     - **Appointment Book Form**: Ensures that all appointments are correctly displayed and confirmed.
     - **Appointment History Form**: Ensures that the appointment history is displayed
