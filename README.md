@@ -21,3 +21,5 @@ Manual testing project for CURA Healthcare Service website is a platform Cura He
 <img src="Test Script/screenshots/Screenshot (532).png" width=2000 height=500/>
 
 <img src="Test Script/screenshots/Screenshot (533).png" width=2000 height=500/>
+
+### Trigger Jenkins
